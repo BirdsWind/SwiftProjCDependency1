@@ -1,4 +1,0 @@
-module CWrapper [system] [extern_c] {
-    header "../../../ExampleCLibrary/ExampleCLibrary/ExampleCLibrary.h"
-    export *
-}
